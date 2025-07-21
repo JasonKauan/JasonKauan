@@ -19,12 +19,6 @@
 
 ---
 
-## 📌 Featured Projects
-
-<!-- Automatic list of your pinned repos or recent projects -->
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JasonKauan&repo=NomeDoSeuRepositorio)](https://github.com/JasonKauan/NomeDoSeuRepositorio)  
-
-<!-- Adicione mais cards com os projetos que você quer destacar -->
 
 ---
 
