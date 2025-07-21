@@ -24,9 +24,9 @@
 
 ## 📊 GitHub Stats
 
-![JasonKauan's GitHub stats](https://github-readme-stats.vercel.app/api?username=JasonKauan&show_icons=true&theme=radical)
+![JasonKauan's GitHub stats](https://github-readme-stats.vercel.app/api?username=JasonKauan&show_icons=true&theme=radical) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JasonKauan&layout=compact&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JasonKauan&layout=compact&theme=radical)
+
 
 ---
 
