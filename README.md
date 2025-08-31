@@ -20,6 +20,13 @@
 
 ---
 
+## 🛠️ Work Tools
+
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![PyCharm](https://img.shields.io/badge/PyCharm-1EAA59?style=for-the-badge&logo=pycharm&logoColor=white)
+
+
 
 ---
 
