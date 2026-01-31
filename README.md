@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Jason Kauan!
 
-💻 **Fullstack Developer**  
+💻 **Backend Developer**  
 🚀 Building a solid foundation in **Fullstack Web Development**, working with **Java (Spring Boot)** on the backend and **Next.js** on the frontend
 
 🌱 Currently learning about **REST APIs**, **databases (SQL & NoSQL)**, **Docker**, and **clean code practices**, while improving both frontend and backend skills  
