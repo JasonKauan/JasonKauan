@@ -3,7 +3,7 @@
 💻 Desenvolvedor Backend · Java & Spring Boot  
 🚀 Construindo sistemas fullstack reais — do backend ao deploy
 
-Apaixonado por criar soluções que funcionam de verdade.
+Criando soluções que funcionam de verdade.
 
 (Spring Boot + React + PostgreSQL + Railway/Vercel).
 
