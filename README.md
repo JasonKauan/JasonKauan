@@ -7,7 +7,7 @@ Criando soluções que funcionam de verdade.
 
 (Spring Boot + React + PostgreSQL + Railway/Vercel).
 
-📫 [LinkedIn](https://www.linkedin.com/in/jason-soares-9bb40335a) • [Instagram](https://instagram.com/Jason.diass)
+📫 [LinkedIn](https://linkedin.com/in/jason-dias00) • [Instagram](https://instagram.com/Jason.diass)
 
 ---
 
