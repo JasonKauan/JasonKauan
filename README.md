@@ -1,11 +1,10 @@
 # Jason Dias
 
-💻 Desenvolvedor Backend · Java & Spring Boot  
-🚀 Construindo sistemas fullstack reais — do backend ao deploy
+ Desenvolvedor Backend/Fullstack  
+ Construindo sistemas fullstack reais — do backend ao deploy
 
-Criando soluções que funcionam de verdade.
+Criando soluções que funcionam.
 
-(Spring Boot + React + PostgreSQL + Railway/Vercel).
 
 📫 [LinkedIn](https://linkedin.com/in/jason-dias00) • [Instagram](https://instagram.com/Jason.diass)
 
